@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: black;
+    color: white;
+}
+i {
+    border: 3px solid black;
+    color: greenyellow;
+}
+footer p {
+    color: rgb(255, 0, 0);
+    border: 5px solid black;
+    text-align: center;
+}
+nav {
+    border: 3px solid grey;
+    text-align: center;
+    background-color: black;
+}
+nav a {
+    padding: 25px;
+}
+p img {
+    background-color: red;
+    border: 5px solid indigo;
+}
+main p {
+    font-size: 22px;
+    color: greenyellow;
+}
+main h2{
+    color: blue;
+}
